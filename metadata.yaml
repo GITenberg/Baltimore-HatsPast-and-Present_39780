@@ -1,0 +1,30 @@
+_repo: Baltimore-HatsPast-and-Present_39780
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39780-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brigham, William Tufts
+    aliases:
+    - Brigham, William T. (William Tufts)
+    - Brigham, W. T. (William Tufts)
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '40229'
+    url: http://www.gutenberg.org/2009/agents/40229
+description: ''
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hat trade -- Maryland -- Baltimore -- History'
+- !lcc 'TS'
+- !lcsh 'Hats'
+title: Baltimore Hats, Past and Present
+url: http://www.gutenberg.org/ebooks/39780
